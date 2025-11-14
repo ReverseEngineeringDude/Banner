@@ -2,6 +2,8 @@
 
 This script allows you to install a personalized and informative banner (Message Of The Day - MOTD) for your terminal. The banner displays your username in ASCII art, along with useful system information like CPU temperature, RAM usage, and storage usage.
 
+![Banner Image](./screenshot/banner.png)
+
 ## Features
 
 *   **Personalized Welcome:** Displays your chosen username in a large ASCII art banner.
